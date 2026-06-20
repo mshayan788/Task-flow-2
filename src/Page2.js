@@ -42,7 +42,7 @@ const toggleCheck = (index) => {
 
       <div className="home">
         
-        <Link to="/">Home</Link>
+       <a href="/">Home</a>
       </div>
 
       <div className="add-task-nav">
